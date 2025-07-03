@@ -8,7 +8,7 @@ Each folder in this repository contains a self-contained concept or whitepaper, 
 
 ## 📘 Current Concepts
 
-### 🔬 [SimulDx: Visual Diagnostic Twin for Clinical Reasoning](./SimulDx/README.md)
+### 🔬 [SimulDx: Visual Diagnostic Twin for Clinical Reasoning](./SimulDx/readme.md)
 **SimulDx** introduces a virtual patient avatar framework that simulates diagnostics and treatments using AI agents. Designed as a sandbox for safe, cost-effective experimentation, SimulDx is ideal for clinicians, educators, and researchers.
 
 - **Type:** Whitepaper  
