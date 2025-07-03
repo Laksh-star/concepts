@@ -28,7 +28,7 @@ The goal of this repository is to:
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/your-profile) or open an issue in this repo to discuss ideas, propose improvements, or collaborate.
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/laksh) or open an issue in this repo to discuss ideas, propose improvements, or collaborate.
 
 ---
 
